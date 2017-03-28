@@ -1,0 +1,23 @@
+{
+    "name": "gabrielrcouto/php-computer-vision",
+    "description": "PHP Computer Vision",
+    "keywords": ["php","computer","vision","artificial"],
+    "homepage": "http://github.com/gabrielrcouto/php-computer-vision",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Rodrigues Couto",
+            "email": "gabrielrcouto@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev" : {
+    },
+    "autoload": {
+        "psr-4": {
+            "ComputerVision\\": "src/"
+        }
+    }
+}
