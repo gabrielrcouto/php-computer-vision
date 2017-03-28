@@ -1,6 +1,6 @@
-# PHP Simple Neural Network (Work in Progress)
+# PHP Computer Vision (Work in Progress)
 
-PHP Simple Neural Network Implementation. Fast and Light \o/
+PHP Computer Vision Library.
 
 ## TO-DO
 
